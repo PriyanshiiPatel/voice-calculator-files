@@ -69,4 +69,4 @@ if st.button("Start Listening 🎤"):
 
 # Footer
 st.write("---")
-st.markdown("<p style='text-align: center; color: #777;'>Developed by Your Name | Python Streamlit Project</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #777;'>Developed by Priyanshi Patel | Python Streamlit Project</p>", unsafe_allow_html=True)
